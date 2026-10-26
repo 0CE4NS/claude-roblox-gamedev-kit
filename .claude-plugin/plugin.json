@@ -1,0 +1,12 @@
+{
+  "name": "gamedev-kit",
+  "version": "1.0.0",
+  "description": "An Obsidian vault as Claude's second brain plus skills for 3D creature and prop builds, a measured mesh QA gate, Roblox game research, blind-reviewed VFX and Tripo Studio.",
+  "author": {
+    "name": "0CE4NS",
+    "url": "https://github.com/0CE4NS"
+  },
+  "repository": "https://github.com/0CE4NS/claude-roblox-gamedev-kit",
+  "license": "MIT",
+  "keywords": ["roblox", "gamedev", "obsidian", "second-brain", "3d", "blender", "tripo", "mesh-qa", "vfx"]
+}
